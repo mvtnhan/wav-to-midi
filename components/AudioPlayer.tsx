@@ -68,13 +68,13 @@ const Info = () => {
       </Box>
       <Box sx={{ ml: 2, minWidth: 0 }}>
         <Typography variant="caption" color="text.secondary" fontWeight={500}>
-          Nghia Mai
+          Nhan Mai
         </Typography>
         <Typography noWrap>
-          <b>Team 9</b>
+          <b>Example</b>
         </Typography>
         <Typography noWrap letterSpacing={-0.25}>
-          Project 1
+          mvtnhan
         </Typography>
       </Box>
     </Box>
